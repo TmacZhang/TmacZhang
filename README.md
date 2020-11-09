@@ -1,4 +1,5 @@
-### 大家好 👋
+### 大家好 👋   ![](https://visitor-badge.glitch.me/badge?page_id=TmacZhang.TmacZhang)
+
 
 <!--
 **TmacZhang/TmacZhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,9 +19,6 @@ Here are some ideas to get you started:
 - 我是一名Android开发工程师，做过应用开发，Framework开发和Art虚拟机开发，目前从事Android基础组件开发。
 - 先后在小米，快手工作。
 - 联系方式，邮箱1032689332@qq.com
-
-
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>    ![](https://visitor-badge.glitch.me/badge?page_id=TmacZhang.TmacZhang)
 
 <details>
 <summary>📈 My GitHub Stats</summary>
