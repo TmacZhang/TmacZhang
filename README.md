@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 联系方式，邮箱1032689332@qq.com
 
 <details>
-<summary>📈 My GitHub Stats</summary>
+<summary>我的github状态</summary>
 
 ![gaozp's github stats](https://github-readme-stats.vercel.app/api?username=TmacZhang&show_icons=true)
 
