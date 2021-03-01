@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 大家好，我是TmacZhang。
-- 我是一名Android开发工程师，做过应用开发，Framework开发和Art虚拟机开发，目前从事Android基础组件开发。
+- 我是一名Android开发工程师，做过应用开发，Framework开发和Art虚拟机开发，目前从事Android基础架构和组件开发。
 - 先后在xiaomi，ks工作。
 - 联系方式，邮箱1032689332@qq.com
 
