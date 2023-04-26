@@ -1,4 +1,4 @@
-### 大家好 👋   ![](https://visitor-badge.glitch.me/badge?page_id=TmacZhang.TmacZhang)
+### 大家好 👋   
 
 
 <!--
