@@ -20,10 +20,9 @@ Here are some ideas to get you started:
 - 先后在xiaomi，ks工作。
 - 联系方式，邮箱1032689332@qq.com，欢迎给我发邮件。
 
-<details>
 <summary>我的github状态</summary>
 
 ![gaozp's github stats](https://github-readme-stats.vercel.app/api?username=TmacZhang&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TmacZhang&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-</details>
+
