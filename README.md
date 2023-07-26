@@ -1,5 +1,6 @@
 ### 大家好 👋   
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iambaljeet&label=Views&color=blue&style=plastic" alt="iambaljeet" /> </p>
+<br/>
 
 <!--
 **TmacZhang/TmacZhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
