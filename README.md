@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 大家好，我是TmacZhang。
-- 我是一名Android开发工程师，做过应用开发，Framework开发和Art虚拟机开发，目前从事Android平台架构和基础组件开发。
-- 先后在xiaomi，ks工作。
+- 我是一名Android开发工程师，做过应用开发，Framework开发和Art虚拟机开发，Android平台架构和基础组件开发。目前从事平台级性能优化。
+- 先后在xiaomi，ks，honor工作。
 - 联系方式，邮箱1032689332@qq.com，欢迎给我发邮件。
 
 <summary>我的github状态</summary>
