@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 - 大家好，我是TmacZhang。
 - 我是一名Android开发工程师，做过Android平台架构和基础组件开发，Framework开发和Art虚拟机开发。目前从事性能优化。
-- 先后在xiaomi，ks，honor工作。
+- 先后在xiaomi，ks，honor，xiaomi工作。
 - 联系方式，邮箱1032689332@qq.com，欢迎给我发邮件。
 
 <summary>我的github状态</summary>
